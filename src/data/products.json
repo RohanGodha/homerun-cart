@@ -4,7 +4,7 @@
       "name": "Ultratech PPC Cement 50kg",
       "price": 420,
       "mrp": 450,
-      "image": "/homerun-cart/Ultratech_PPC_Cement_50_Kg_Bag_3fc420b8-b896-426a-b9a7-b6875af723af.jpg",      
+      "image": "/Ultratech_PPC_Cement_50_Kg_Bag_3fc420b8-b896-426a-b9a7-b6875af723af.jpg",      
       "use3D": true
     },
     {
@@ -12,7 +12,7 @@
       "name": "Ramco OPC 53 Grade 50kg",
       "price": 430,
       "mrp": 460,
-      "image": "/homerun-cart/Ramco_Cement_OPC_53_Grade_50_Kg_Bag_new.jpg",
+      "image": "/Ramco_Cement_OPC_53_Grade_50_Kg_Bag_new.jpg",
       "use3D": true
     },
     {
@@ -20,7 +20,7 @@
       "name": "Maha PPC Cement 50kg",
       "price": 370,
       "mrp": 400,
-      "image": "/homerun-cart/Maha-Cement-PPC.png",
+      "image": "/Maha-Cement-PPC.png",
       "use3D": false
     },
     {
@@ -28,7 +28,7 @@
       "name": "Birla White WallCare 30kg",
       "price": 650,
       "mrp": 680,
-      "image": "/homerun-cart/Birla_White_WallCare_Putty_30_Kg_Bag_cd95b603-f2a5-49ff-ab1d-ce72eb4b0dac.jpg",
+      "image": "/Birla_White_WallCare_Putty_30_Kg_Bag_cd95b603-f2a5-49ff-ab1d-ce72eb4b0dac.jpg",
       "use3D": false
     },
     {
@@ -36,7 +36,7 @@
       "name": "MYK Laticrete Tile Adhesive 30kg",
       "price": 390,
       "mrp": 400,
-      "image": "/homerun-cart/my_latic.jpg", 
+      "image": "/my_latic.jpg", 
       "use3D": false
     },
     {
@@ -44,7 +44,7 @@
       "name": "Ramco Supergrade PPC 50kg",
       "price": 405,
       "mrp": 430,
-      "image": "/homerun-cart/ramco_cement.jpg",
+      "image": "/ramco_cement.jpg",
       "use3D": true
     }
   ]

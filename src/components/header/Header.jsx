@@ -32,7 +32,7 @@ export default function Header() {
           }}
         >
           <img
-            src="/homerun-cart/homerun.png"
+            src="/homerun.png"
             alt="logo"
             style={{ height: 45, display: "block",paddingTop:"0.5rem"}}
           />
@@ -86,14 +86,8 @@ export default function Header() {
                   },
                 },
               },
-              anchorOrigin: {
-                vertical: "bottom",
-                horizontal: "right",
-              },
-              transformOrigin: {
-                vertical: "top",
-                horizontal: "right",
-              },
+              anchorOrigin: { vertical: 'bottom', horizontal: 'right' },
+              transformOrigin: { vertical: 'top', horizontal: 'right' },
             }}
           >
             <MenuItem value="English">English</MenuItem>
