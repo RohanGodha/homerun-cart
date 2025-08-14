@@ -48,7 +48,7 @@ export default function ProductCard({ product }) {
           />
         </Box>
       )}
-  
+
       <CardContent sx={{ flexGrow: 1 }}>
         <Typography variant="subtitle1" fontWeight={600}>
           {product.name}
@@ -67,7 +67,7 @@ export default function ProductCard({ product }) {
           </Typography>
         </Box>
       </CardContent>
-  
+
       <CardActions sx={{ p: 2 }}>
         <Box width="100%">
           {qty === 0 ? (
@@ -84,7 +84,7 @@ export default function ProductCard({ product }) {
               maxReached={isMax}
             />
           )}
-  
+
           {isMax && (
             <Alert severity="error" sx={{ mt: 1, fontSize: "0.85rem" }}>
               {message}
@@ -94,5 +94,5 @@ export default function ProductCard({ product }) {
       </CardActions>
     </Card>
   );
-  
+
 }

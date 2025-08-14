@@ -7,7 +7,7 @@ React + MUI + react-three-fiber demo replicating HomeRun’s Add -> Quantity inl
 
 # Deployed Link
 
-https://rohangodha.github.io/homerun-cart/
+https://rohangodha.github.io/homerun-cart
 
 ## Features
 - Product grid (static JSON)
@@ -22,4 +22,4 @@ https://rohangodha.github.io/homerun-cart/
 ```bash
 npm install
 npm run dev
-Open http://localhost:5173/homerun-cart/
+Open http://localhost:5173
