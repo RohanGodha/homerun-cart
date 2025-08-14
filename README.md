@@ -16,7 +16,6 @@ React + MUI + react-three-fiber demo replicating HomeRun’s Add -> Quantity inl
 
 ## Run locally
 ```bash
-cd homerun-cart
 npm install
 npm run dev
 # open http://localhost:5173
