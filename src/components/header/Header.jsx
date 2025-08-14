@@ -47,7 +47,7 @@ export default function Header() {
 
         {/* Right side icons */}
         <Box sx={{ marginLeft: "auto", display: "flex", alignItems: "center", gap: 1 }}>
-          {/* Language Selector */}
+          {/* Language Selector
 
           <Select
             value={language}
@@ -93,7 +93,7 @@ export default function Header() {
             <MenuItem value="English">English</MenuItem>
             <MenuItem value="Hindi">हिंदी</MenuItem>
             <MenuItem value="Tamil">தமிழ்</MenuItem>
-          </Select>
+          </Select> */}
 
           {/* Search */}
           <IconButton size="large">
