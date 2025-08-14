@@ -5,6 +5,10 @@ Submission For Homerun Cart Assignment
 
 React + MUI + react-three-fiber demo replicating HomeRun’s Add -> Quantity inline behavior.
 
+# Deployed Link
+
+https://rohangodha.github.io/homerun-cart/
+
 ## Features
 - Product grid (static JSON)
 - Add button transforms to quantity controls (`<<`, `-`, `Qty`, `+`, `>>`)
@@ -18,4 +22,4 @@ React + MUI + react-three-fiber demo replicating HomeRun’s Add -> Quantity inl
 ```bash
 npm install
 npm run dev
-# open http://localhost:5173
+Open http://localhost:5173/homerun-cart/

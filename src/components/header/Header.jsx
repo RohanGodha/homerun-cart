@@ -19,7 +19,6 @@ export default function Header() {
   return (
     <AppBar position="sticky" color="inherit" elevation={2}>
       <Toolbar sx={{ position: "relative" }} style={{paddingTop:"0.5rem", paddingBottom:"1rem"}}>
-        {/* Centered logo + text */}
         <Box
           display="flex"
           flexDirection="column"
@@ -45,7 +44,6 @@ export default function Header() {
         </Box>
 
 
-        {/* Right side icons */}
         <Box sx={{ marginLeft: "auto", display: "flex", alignItems: "center", gap: 1 }}>
           {/* Language Selector
 
@@ -95,17 +93,14 @@ export default function Header() {
             <MenuItem value="Tamil">தமிழ்</MenuItem>
           </Select> */}
 
-          {/* Search */}
           <IconButton size="large">
             <SearchIcon />
           </IconButton>
 
-          {/* Profile */}
           <IconButton size="large">
             <PersonOutlineIcon />
           </IconButton>
 
-          {/* Cart */}
           <IconButton aria-label="cart" size="large">
             <Badge badgeContent={totalItems} color="primary">
               <ShoppingCartIcon />
