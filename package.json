@@ -2,7 +2,7 @@
   "name": "homerun-cart",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/RohanGodha/homerun-cart",
+  "homepage": "https://rohagodha.github.io/homerun-cart",
   "type": "module",
   "scripts": {
     "dev": "vite",
