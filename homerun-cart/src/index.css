@@ -6,11 +6,11 @@ html, body, #root {
 body {
   font-family: "Inter", "Roboto", "Helvetica", "Arial", sans-serif;
   background: #f6f7f9;
+  zoom: 75%;
 }
 main {
   padding-bottom: 48px;
 }
-
 
 /* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;

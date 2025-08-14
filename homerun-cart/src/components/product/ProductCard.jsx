@@ -37,7 +37,7 @@ export default function ProductCard({ product }) {
         <Box sx={{ p: '0.5rem' }}>
           <CardMedia
             component="img"
-            height="300vh"
+            maxHeight="300px"
             width="auto"
             image={
               product.image && !product.image.endsWith(".pdf")
